@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OkHttpSample</string>
+    <string name="default_url">www.buzzfeed.com/index.xml?country=ja-jp</string>
+    <string name="fetch">取得</string>
+    <string name="hint_text">RSS URL 入力</string>
+</resources>
